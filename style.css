@@ -1,0 +1,44 @@
+html,body
+{  
+  background-color      : #00101A;
+  color                 : #a0a0a0; 
+  overflow-x            : hidden;
+  overflow-y            : hidden;  
+  font                  : 15px arial, sans-serif;
+}
+
+#main
+{
+  background-color      : #FFD0D0;
+  width                 : 100%;
+  height                : 86%;
+  margin                : 0%;
+}
+#header
+{
+  position              : relative;
+  width                 : 100%;
+  height                : 10%;
+  margin                : 0%;
+}
+#header-title
+{
+  position              : relative;
+  float                 : left;
+  width                 : 80%;
+}
+#menu-item-close
+{
+  position              : absolute;
+  width                 : 10%;
+  text-align            : right;
+  cursor                : pointer;
+  bottom                : 0;
+  right                 : 0;
+}
+#footer
+{
+  width                 : 100%;
+  height                : 4%;
+  margin                : 0%;
+}

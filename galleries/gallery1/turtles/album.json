@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "description": "",
+  "directory": "album4",
+  "images": 
+  [
+    {
+      "title": "",
+      "caption": "",
+      "image": "OLP_20180712-1959.jpg",
+      "captureDateTime": "2018-07-12 15:46:29"
+    }, 
+    {
+      "title": "",
+      "caption": "",
+      "image": "OLP_20180712-1983.jpg",
+      "captureDateTime": "2018-07-12 16:15:09"
+    }, 
+    {
+      "title": "",
+      "caption": "",
+      "image": "OLP_20180712-1999.jpg",
+      "captureDateTime": "2018-07-12 16:36:42"
+    }
+  ]
+}

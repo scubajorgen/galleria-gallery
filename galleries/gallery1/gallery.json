@@ -1,0 +1,118 @@
+{
+  "name": "Underwater",
+  "description": "",
+  "albums": 
+  [
+    {
+      "name": "Tortoises",
+      "description": "Taken at Curacao",
+      "directory": "turtles",
+      "images": 
+      [
+        {
+          "title": "Turtle resting on the reef",
+          "caption": "Playa Grandi aka Playa Piskado",
+          "image": "OLP_20180712-1959.jpg",
+          "captureDateTime": "2018-07-12 15:46:29"
+        }, 
+        {
+          "title": "Eating",
+          "caption": "Playa Grandi aka Playa Piskado",
+          "image": "OLP_20180712-1983.jpg",
+          "captureDateTime": "2018-07-12 16:15:09"
+        }, 
+        {
+          "title": "Relaxing",
+          "caption": "Playa Grandi aka Playa Piskado",
+          "image": "OLP_20180712-1999.jpg",
+          "captureDateTime": "2018-07-12 16:36:42"
+        }
+      ],
+      "changed": false
+    }, 
+    {
+      "name": "Spain",
+      "description": "Costa Brava",
+      "directory": "spain",
+      "images": 
+      [
+        {
+          "title": "Villefrance",
+          "caption": "Actually not spain",
+          "image": "NK2_20100714-4692.jpg",
+          "captureDateTime": "2010-07-14 21:03:36"
+        }, 
+        {
+          "title": "Fisherman",
+          "caption": "Tradtional boat fishing",
+          "image": "NK2_20100721-4912.jpg",
+          "captureDateTime": "2010-07-21 06:12:04"
+        }, 
+        {
+          "title": "Birds",
+          "caption": "",
+          "image": "NK2_20100727-5274.jpg",
+          "captureDateTime": "2010-07-27 05:33:59"
+        }
+      ]
+    }, 
+    {
+      "name": "The golden hours",
+      "description": "Early morning mist",
+      "directory": "goldenhours",
+      "images": 
+      [
+        {
+          "title": "",
+          "caption": "",
+          "image": "NK2_20100601-4085R.jpg",
+          "captureDateTime": "2010-06-01 04:19:59"
+        }, 
+        {
+          "title": "",
+          "caption": "",
+          "image": "NK2_20100601-4096.jpg",
+          "captureDateTime": "2010-06-01 04:37:04"
+        }, 
+        {
+          "title": "",
+          "caption": "",
+          "image": "NK2_20100601-4104.jpg",
+          "captureDateTime": "2010-06-01 04:51:04"
+        }, 
+        {
+          "title": "",
+          "caption": "",
+          "image": "NK2_20100601-4124.jpg",
+          "captureDateTime": "2010-06-01 05:08:18"
+        }
+      ]
+    }, 
+    {
+      "name": "Lanzarote",
+      "description": "Cycling this Canary Island",
+      "directory": "lanzarote",
+      "images": 
+      [
+        {
+          "title": "Tinasoria",
+          "caption": "An old vulcan",
+          "image": "SG7_20190417-0100.jpg",
+          "captureDateTime": "2019-04-17 09:03:13"
+        }, 
+        {
+          "title": "Ermita de las Nieves",
+          "caption": "",
+          "image": "SG7_20190418-0122.jpg",
+          "captureDateTime": "2019-04-18 11:12:52"
+        }, 
+        {
+          "title": "Volcán El Cuervo",
+          "caption": "A young vulcan",
+          "image": "SG7_20190419-0148.jpg",
+          "captureDateTime": "2019-04-19 10:23:44"
+        }
+      ]
+    }
+  ]
+}
